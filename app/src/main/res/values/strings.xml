@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hour8Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="pie_array">
+        <item>apple</item>
+        <item>blueberry</item>
+        <item>cherry</item>
+        <item>coconut cream</item>
+    </string-array>
+
+    <string name="title_activity_grid_view">GridViewActivity</string>
+
+</resources>
